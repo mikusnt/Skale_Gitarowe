@@ -1,0 +1,30 @@
+c:\users\ms-1\documents\visual studio 2015\Projects\testy_skale\testy_skale\bin\Debug\testy_skale.exe.config
+C:\Users\MS-1\Documents\Visual Studio 2015\Projects\testy_skale\testy_skale\obj\Debug\testy_skale.csprojResolveAssemblyReference.cache
+C:\Users\MS-1\Documents\Visual Studio 2015\Projects\testy_skale\testy_skale\bin\Debug\testy_skale.exe
+C:\Users\MS-1\Documents\Visual Studio 2015\Projects\testy_skale\testy_skale\bin\Debug\testy_skale.pdb
+C:\Users\MS-1\Documents\Visual Studio 2015\Projects\testy_skale\testy_skale\obj\Debug\testy_skale.exe
+C:\Users\MS-1\Documents\Visual Studio 2015\Projects\testy_skale\testy_skale\obj\Debug\testy_skale.pdb
+C:\Users\MS-1\Documents\Visual Studio 2015\Projects\testy_skale\testy_skale\obj\Debug\testy_skale.Properties.Resources.resources
+C:\Users\MS-1\Documents\Visual Studio 2015\Projects\testy_skale\testy_skale\obj\Debug\testy_skale.csproj.GenerateResource.Cache
+C:\Users\MS-1\Documents\Visual Studio 2015\Projects\testy_skale\testy_skale\obj\Debug\testy_skale.Form1.resources
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\bin\Debug\testy_skale.exe.config
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\obj\Debug\testy_skale.exe
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\obj\Debug\testy_skale.pdb
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\bin\Debug\testy_skale.exe
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\bin\Debug\testy_skale.pdb
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\obj\Debug\testy_skale.csprojResolveAssemblyReference.cache
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\obj\Debug\testy_skale.Properties.Resources.resources
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\obj\Debug\testy_skale.csproj.GenerateResource.Cache
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\obj\Debug\Skale_Gitarowe.Form1.resources
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\bin\Debug\testy_skale.exe.config
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\obj\Debug\testy_skale.exe
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\obj\Debug\testy_skale.pdb
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\bin\Debug\testy_skale.exe
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\bin\Debug\testy_skale.pdb
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\obj\Debug\testy_skale.csprojResolveAssemblyReference.cache
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\obj\Debug\Skale_Gitarowe.Form1.resources
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\obj\Debug\testy_skale.Properties.Resources.resources
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\obj\Debug\testy_skale.csproj.GenerateResource.Cache
+C:\Users\MS-1\Dysk Google\Programowanie\C#\testy_skale\testy_skale\bin\Debug\testy_skale.exe.config
+C:\Users\MS-1\Dysk Google\Programowanie\C#\testy_skale\testy_skale\obj\Debug\testy_skale.exe
+C:\Users\MS-1\Dysk Google\Programowanie\C#\testy_skale\testy_skale\obj\Debug\testy_skale.pdb

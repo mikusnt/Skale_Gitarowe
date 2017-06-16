@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   viewBox="0 0 200.00001 200.00001"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="rickvanderzwet_Treble_clef_1.svg"
+   width="200"
+   height="200"
+   inkscape:export-filename="C:\Users\MS-1\Desktop\ico.png"
+   inkscape:export-xdpi="57.599998"
+   inkscape:export-ydpi="57.599998">
+  <defs
+     id="defs8">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4174">
+      <stop
+         style="stop-color:#780000;stop-opacity:1"
+         offset="0"
+         id="stop4176" />
+      <stop
+         style="stop-color:#b00000;stop-opacity:1"
+         offset="1"
+         id="stop4178" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4136">
+      <stop
+         style="stop-color:#ff4c00;stop-opacity:1"
+         offset="0"
+         id="stop4138" />
+      <stop
+         style="stop-color:#af0000;stop-opacity:1"
+         offset="1"
+         id="stop4140" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4136"
+       id="linearGradient4142"
+       x1="43.991238"
+       y1="5.0366364"
+       x2="43.640537"
+       y2="148.26222"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.392229,0,0,1.392229,35.724467,-6.5898166)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4174"
+       id="linearGradient4180"
+       x1="100.33356"
+       y1="199.26848"
+       x2="101.45831"
+       y2="0.40711582"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="3.0825497"
+     inkscape:cx="27.023752"
+     inkscape:cy="132.63973"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     id="path26"
+     d="M 107.686,0.71938692 C 100.13038,0.52322254 91.293898,18.56498 91.587659,34.654971 c 0.06822,4.900646 1.614984,14.839771 3.871788,27.322497 -14.232757,14.731164 -30.759909,29.84939 -30.759909,49.685862 -0.226934,18.17833 10.883054,41.33806 37.242132,41.1153 4.04581,-0.0279 7.68649,-0.52905 10.92064,-1.39222 2.40995,13.21225 4.01241,23.64006 4.00266,28.45716 0.0849,18.99001 -24.865212,20.86951 -26.061137,9.95444 5.25845,-0.18099 9.442097,-4.35767 9.442097,-9.52286 0,-5.27654 -4.368815,-9.57854 -9.790154,-9.57854 -2.980761,0 -5.637137,1.3087 -7.43868,3.35528 -0.04177,0.0417 -0.09049,0.0836 -0.13087,0.12528 -0.406529,0.43159 -0.749019,0.94672 -1.087331,1.53147 -1.110998,1.8795 -1.832173,4.58044 -1.871155,8.43691 0,15.89925 40.20062,26.13214 40.20062,-5.22086 0.0627,-4.21846 -1.75143,-14.9247 -4.39388,-28.41541 28.6841,-10.3721 21.47792,-52.960371 -4.91596,-53.160851 -2.04658,0.02086 -4.01936,0.258937 -5.91697,0.740646 -1.50361,-7.2354 -2.95431,-14.257804 -4.22124,-20.710787 10.02265,-9.844506 18.77421,-22.587572 18.5779,-46.073085 C 119.28883,14.439741 113.66981,0.91562692 107.686,0.71932292 Z M 109.46945,17.03492 c 3.41931,-0.329959 6.13416,2.844324 6.13416,9.831922 0.27706,12.001015 -8.13062,22.481715 -18.142138,33.022281 C 96.50362,54.115549 95.875724,49.43766 95.807504,46.662948 96.09152,27.915191 103.76966,17.584851 109.46945,17.03492 Z M 98.722831,79.249456 c 1.220986,6.285905 2.539429,12.908745 3.871789,19.578921 -17.469689,6.214903 -25.853693,30.564983 -1.08733,41.461973 -15.09594,-12.85169 -7.665614,-28.06456 3.21883,-30.71536 2.73713,13.6661 5.41021,27.15125 7.57095,38.80421 -2.93343,1.03023 -6.35692,1.6289 -10.3554,1.65674 -9.997602,0 -29.976089,-6.36248 -29.976089,-30.45501 0,-20.178961 13.987726,-28.379186 26.75725,-40.331474 z m 8.484249,29.889754 c 0.43577,-0.0263 0.90773,-0.0152 1.34768,0 18.18668,0 25.0462,28.88179 6.52676,38.11229 -2.30413,-11.58337 -5.09834,-24.86522 -7.87444,-38.11229 z"
+     style="fill:url(#linearGradient4142);fill-opacity:1;stroke:url(#linearGradient4180);stroke-width:1.39222896;stroke-opacity:1"
+     inkscape:export-filename="C:\Users\MS-1\Desktop\ico.png"
+     inkscape:export-xdpi="199.87611"
+     inkscape:export-ydpi="199.87611"
+     inkscape:connector-curvature="0" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Treble clef</dc:title>
+        <dc:date>2006-12-03T12:59:04</dc:date>
+        <dc:description>Hollow treble clef for use at drawings</dc:description>
+        <dc:source>http://openclipart.org/detail/12473/treble-clef-by-rickvanderzwet-12473</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>rickvanderzwet</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clef</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>line art</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>music</rdf:li>
+            <rdf:li>png</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>sign</rdf:li>
+            <rdf:li>silhouette</rdf:li>
+            <rdf:li>svg</rdf:li>
+            <rdf:li>treble</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

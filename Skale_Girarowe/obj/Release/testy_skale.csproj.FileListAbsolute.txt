@@ -1,0 +1,18 @@
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\bin\Release\testy_skale.exe.config
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\bin\Release\testy_skale.exe
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\bin\Release\testy_skale.pdb
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\obj\Release\Skale_Gitarowe.Form1.resources
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\obj\Release\testy_skale.Properties.Resources.resources
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\obj\Release\testy_skale.csproj.GenerateResource.Cache
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\obj\Release\testy_skale.exe
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\obj\Release\testy_skale.pdb
+C:\Users\MS-1\Desktop\Aktualności\C# bieżące\testy_skale\testy_skale\obj\Release\testy_skale.csprojResolveAssemblyReference.cache
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\bin\Release\testy_skale.exe.config
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\obj\Release\testy_skale.exe
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\obj\Release\testy_skale.pdb
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\bin\Release\testy_skale.exe
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\bin\Release\testy_skale.pdb
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\obj\Release\testy_skale.csprojResolveAssemblyReference.cache
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\obj\Release\Skale_Gitarowe.Form1.resources
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\obj\Release\testy_skale.Properties.Resources.resources
+C:\Users\MS-1\Desktop\Aktualności\C#\testy_skale\testy_skale\obj\Release\testy_skale.csproj.GenerateResource.Cache

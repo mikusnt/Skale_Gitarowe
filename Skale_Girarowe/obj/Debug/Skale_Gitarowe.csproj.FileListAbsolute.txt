@@ -1,0 +1,6 @@
+C:\Users\MS-1\Dysk Google\Programowanie\C#\testy_skale\testy_skale\bin\Debug\testy_skale.exe.config
+C:\Users\MS-1\Dysk Google\Programowanie\C#\testy_skale\testy_skale\obj\Debug\testy_skale.exe
+C:\Users\MS-1\Dysk Google\Programowanie\C#\testy_skale\testy_skale\obj\Debug\testy_skale.pdb
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Skale_Gitarowe\Skale_Girarowe\bin\Debug\testy_skale.exe.config
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Skale_Gitarowe\Skale_Girarowe\obj\Debug\testy_skale.exe
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Skale_Gitarowe\Skale_Girarowe\obj\Debug\testy_skale.pdb
